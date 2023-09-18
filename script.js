@@ -14,5 +14,5 @@ subscribeInput.addEventListener('click', () => {
     setTimeout(function() {
         thanks.style.display = "flex";
         thanks.style.animation = "fadein 1s";
-    }, 5000);
+    }, 4000);
 });
