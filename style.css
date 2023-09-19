@@ -78,6 +78,7 @@ input[type=text] {
   border: none;
   border-bottom: 1px solid blue;
   padding: 0;
+  width: 140px;
 }
 
 input::placeholder {
