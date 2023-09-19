@@ -97,6 +97,7 @@ input[type=submit] {
   color: white;
   background: blue;
   border-radius: 2px;
+  -webkit-border-radius: 2px;
   border: none;
   outline: none;
   cursor: pointer;
