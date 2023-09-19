@@ -75,7 +75,8 @@ input[type=text] {
   border: none;
   border-bottom: 1px solid blue;
   padding: 0;
-  border-radius: 0;
+  border-radius: 0px;
+  -webkit-border-radius: 0px;
   background-color: transparent;
   width: 100%;
   min-width: 137px;
