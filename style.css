@@ -7,6 +7,9 @@
   .sub-container {
     flex-direction: column;
   }
+  #subscribeInput {
+    width: 50%;
+  }
 }
 
 @keyframes fadein {
@@ -101,7 +104,6 @@ input[type=submit] {
   border: none;
   outline: none;
   cursor: pointer;
-  width: 64px;
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
